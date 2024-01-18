@@ -1,4 +1,6 @@
 # Extensions 
+![54fd4cc0-d07e-4a6b-8acd-390231dab610](https://user-images.githubusercontent.com/5365111/160940224-f008aa83-4bc5-4bbc-ac58-12b1b63629ab.jpg)
+
 Extensions - это методы расширения многих типов данных в Unity, что существенно упрощает решение повседневных задач при создании игр.
 
 ## Настройка
